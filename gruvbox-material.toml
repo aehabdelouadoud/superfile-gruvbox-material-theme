@@ -1,0 +1,67 @@
+# Gruvbox-material
+# Theme create by: https://github.com/horanmustaplot
+# Update by(sort by time):
+# 
+# Thanks for all contributor!!
+
+# If you want to make border display just set it same as sidebar background color
+
+# Code syntax highlight theme (you can go to https://github.com/alecthomas/chroma/blob/master/styles to find one you like)
+code_syntax_highlight = "gruvbox"
+
+# ========= Border =========
+file_panel_border = "#A89984"
+sidebar_border    = "#5C564D"
+footer_border     = "#A89984"
+
+# ========= Border Active =========
+file_panel_border_active = "#D8A657"
+sidebar_border_active    = "#ea6962"
+footer_border_active     = "#a9b665"
+modal_border_active      = "#d3869b"
+
+# ========= Background (bg) =========
+full_screen_bg = "#32302f"
+file_panel_bg  = "#32302f"
+sidebar_bg     = "#32302f"
+footer_bg      = "#32302f"
+modal_bg       = "#32302f"
+
+# ========= Foreground (fg) =========
+full_screen_fg = "#ddc7a1"
+file_panel_fg  = "#ddc7a1"
+sidebar_fg     = "#ddc7a1"
+footer_fg      = "#ddc7a1"
+modal_fg       = "#ddc7a1"
+
+# ========= Special Color =========
+cursor         = "#ea6962"
+correct        = "#9ece6a"
+error          = "#f7768e"
+hint           = "#7dcfff"
+cancel         = "#ff9e64"
+# Gradient color can only have two color!
+gradient_color = ["#7daea3", "#ea6962"]
+
+# ========= File Panel Special Items =========
+file_panel_top_directory_icon = "#7daea3"
+file_panel_top_path           = "#7daea3"
+file_panel_item_selected_fg   = "#D8A657"
+file_panel_item_selected_bg   = "#32302f"
+
+# ========= Sidebar Special Items =========
+sidebar_title            = "#D8A657"
+sidebar_item_selected_fg = "#ddc7a1"
+sidebar_item_selected_bg = "#32302f"
+sidebar_divider          = "#A89984"
+
+# ========= Modal Special Items =========
+modal_cancel_fg = "#ddc7a1"
+modal_cancel_bg = "#e0af68"
+
+modal_confirm_fg = "#ddc7a1"
+modal_confirm_bg = "#9ece6a"
+
+# ========= Help Menu =========
+help_menu_hotkey = "#7daea3"
+help_menu_title  = "#7daea3"
